@@ -1,0 +1,1 @@
+# a simple slider with html css and vanilla JS
